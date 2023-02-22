@@ -117,7 +117,7 @@ Salary: $76,000 - 130,000
 
 [__Software Development Manager - Amazon Dev Centre Canada ULC__](https://jobs-us-east.amazon.com/en-gb/jobs/2268738/software-development-manager)
 
-<img src = "https://d10d02tod5sfve.cloudfront.net/poster-photo/amazondevcentrecanadaulc-1608413002405" width = "200">
+<img src = "https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg" width = "200">
 <br> 
 
 City: Toronto, ON
@@ -239,10 +239,8 @@ Salary: $120,000 - 260,000
 &nbsp; *Course providers: Udemy, EDX, Intellipaat, Coursera*
 
 ### &nbsp; __Competitions__
-<img src = "https://startupheretoronto.com/wp-content/uploads/2016/09/velocity.uwaterloo.cawp-contentuploads201608assets_blue-325f175ddea29c70e13a4e2b41e23042a186fb3b.png" width = "100"> 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/8/89/Google_Code_Jam_logo.png" width = "200"> 
-<img src = "https://miro.medium.com/max/1400/1*2TRSdyZIq6Oc1KD1tEbw4w.png" width = "200">
-<br> <br> 
+| <img src = "https://startupheretoronto.com/wp-content/uploads/2016/09/velocity.uwaterloo.cawp-contentuploads201608assets_blue-325f175ddea29c70e13a4e2b41e23042a186fb3b.png" width = "100"> | <img src = "https://upload.wikimedia.org/wikipedia/commons/8/89/Google_Code_Jam_logo.png" width = "200"> | <img src = "https://miro.medium.com/max/1400/1*2TRSdyZIq6Oc1KD1tEbw4w.png" width = "200"> | 
+|--|---|--|
 
 - [Hack the North](https://hackthenorth.com/): largest competition in Canada for hackers hosted annually at Waterloo with world-class mentors
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam): global coding competition with a series of online algorithmic puzzles 
