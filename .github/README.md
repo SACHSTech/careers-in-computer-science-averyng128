@@ -3,6 +3,8 @@
 
 ## **Software Development Manager**
 A software development manager is responsible for leading a team to design, troubleshoot, and optimize software programs. They work to monitor applications, resolve possible issues, and analyze trends. They work to develop short term and long term strategies for development in technologies to manage software products. 
+<br> <br>
+
  
 > ## Resposibilities
 * Manage the software development team
@@ -15,30 +17,29 @@ A software development manager is responsible for leading a team to design, trou
     * Monitor the progress and set deadlines accordingly to accommodate for unexpected issues
 * Ensure software quality
     * Ensures that proper quality assurance (QA) are in place
+<br> <br> 
+
 
 > ## Education
 &nbsp; 
 Bachelor’s degree in computer science, information technology, systems engineering, or related field 
 <br> &nbsp; 
 *A master's degree is preferred*
+<br> <br>
 
 
 > ## Technical and non-technical skills
-### &nbsp; Technical Skills
-* Coding languages: JavaScript, HTML, CSS, Python, C++, Java
-* Database knowledge: use organizational methods to store and structure information records in a database
-* Source control management (SCM): helps development team track updates and changes to a program’s coding language 
-### &nbsp; Non-technical Skills
-* Critical-thinking skills
-* Decision-making skills
-* Ability to find creative solutions to complex problems
-* Excellent verbal and written communication skills
-* Ability to collaborate with and lead colleagues
+| Technical Skills | Non-technical Skills |
+| ---------------- | -------------------- |
+| Coding languages: JavaScript, HTML, CSS, Python, C++, Java | Critical-thinking and decision-making skills |
+| Database knowledge: use organizational methods to store and structure information records in a database | Ability to find creative solutions to complex problems |
+| Source control management (SCM): helps development team track updates and changes to a program’s coding language | Excellent verbal and written communication skills and ability to collaborate with and lead colleagues |
+<br> <br>
 
 
 > ## Entry Level Job
 
-__Junior Software Engineer at CSC__
+[__Junior Software Engineer at CSC__](https://jobs.smartrecruiters.com/CSC5/98889037-junior-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 City: Toronto, ON
 Salary: $42,000 - 84,000 / year
@@ -66,11 +67,12 @@ Salary: $42,000 - 84,000 / year
 - Interpersonal skills to interact with customers and team members
 - Communication skills to interact with team members and support personnel
 - Ability to work in a team environment
+<br> <br>
 
 
 > ## Average Level Job
 
-__Senior Software Engineer - Huawei Technologies Canada Co.__
+[__Senior Software Engineer - Huawei Technologies Canada Co.__](https://www.glassdoor.ca/Salary/Huawei-Technologies-Senior-Software-Engineer-Salaries-E9304_D_KO20,44.htm)
 
 City: Markham, ON
 Salary: $76,000 - 130,000
@@ -95,11 +97,12 @@ Salary: $76,000 - 130,000
 *Other Qualifications*
 - Master and above degree or extensive research background is an asset for this position
 - Must seek out and welcome new challenges
+<br> <br>
 
 
 > ## High Level Job
 
-__Software Development Manager - Amazon Dev Centre Canada ULC__
+[__Software Development Manager - Amazon Dev Centre Canada ULC__](https://jobs-us-east.amazon.com/en-gb/jobs/2268738/software-development-manager)
 
 City: Toronto, ON
 Salary: $120,000 - 260,000
@@ -133,12 +136,13 @@ Salary: $120,000 - 260,000
 - Experience with large scale systems
 - Excellent business and technical vision
 - Understanding of security engineering, system and network security, authentication and security protocols, cryptography, or application security
+<br> <br>
 
 
 > ## University Program
 
 ### __Program + Institution__
-- Undergraduate program of Computer Science at the University of Waterloo
+- [Undergraduate program of Computer Science at the University of Waterloo](https://uwaterloo.ca/future-students/programs/computer-science)
 - Available as a regular or co-op program
 - Offered by the Faculty of Mathematics
 
@@ -151,31 +155,29 @@ Salary: $120,000 - 260,000
 
 ### __Description of first year courses__
 - Mix of foundational courses in Computer Science and Math
-- September to December 
-    - CS 135 – Designing Functional Programs
-    - MATH 135 – Algebra for Honours Mathematics
-    - MATH 137 – Calculus 1 for Honours Mathematics
-    - One communication skills course
-    - One elective
-- January to April
-    - CS 136 – Elementary Algorithm Design and Data Abstraction
-    - MATH 136 – Linear Algebra 1 for Honours Mathematics
-    - MATH 138 – Calculus 2 for Honours Mathematics
-    - Two electives
+
+| September to December | January to April |
+| --------------------- | ---------------- |
+| CS 135 – Designing Functional Programs | CS 136 – Elementary Algorithm Design and Data Abstraction |
+| MATH 135 – Algebra for Honours Mathematics | MATH 136 – Linear Algebra 1 for Honours Mathematics |
+| MATH 137 – Calculus 1 for Honours Mathematics | MATH 138 – Calculus 2 for Honours Mathematics |
+| One communication skills course | One elective |
+| One elective | One elective |
 
 ### __Length of time to complete the diploma__
 - Regular system (4 years)
     - Eight consecutive months of school
 - Co-op (5 years)
     -  Moving between school and work every four months
+<br> <br>
 
 
 > ## Experiential Learning Opportunities
 
 ### &nbsp; __Clubs (Waterloo)__
-- Math society (MathSoc)
+- [Math society](https://mathsoc.uwaterloo.ca/) (MathSoc)
     -  Get together with people interested in computer science
-- Women in Computer Science (WiCS)
+- [Women in Computer Science](https://wics.uwaterloo.ca/) (WiCS)
     - Promotes gender equity for students interested in a career in computing with events like workshops and mentoring programs
 
 ### &nbsp; __Co-op Programs__
@@ -190,12 +192,15 @@ Salary: $120,000 - 260,000
     - Crypto Material Systems Analyst – Government of Canada
 
 ### &nbsp; __Internships__
-- Front End Engineering Intern: focus on what users see in a web application, write code and build user interfaces
-- Backend Engineering Intern: write code to connect the server to the database
-- Data Scientist Intern: statistical and quantitative analyses by using statistical analyses and models to evaluate social trends in information systems
-- Product Management Intern: work with computer engineers and marketing teams to ensure the product is functioning properly, runs QA tests to determine if product is up to expectations 
-- Mobile Technology Engineering Intern: code for both front end and back end systems, help develop apps, create new mobile features, and ensure the app is user-friendly
-&nbsp; *Companies: Chevron, General Motors, IBM, Boeing, Facebook, Google, Hewlett Packard, Intel, Apple*
+| Job | Description |
+|-----| ------------|
+| Front End Engineering Intern | focus on what users see in a web application, write code and build user interfaces |
+| Backend Engineering Intern | write code to connect the server to the database |
+| Data Scientist Intern | statistical and quantitative analyses by using statistical analyses and models to evaluate social trends in information systems |
+| Product Management Intern | work with computer engineers and marketing teams to ensure the product is functioning properly, runs QA tests to determine if product is up to expectations |
+| Mobile Technology Engineering Intern | code for both front end and back end systems, help develop apps, create new mobile features, and ensure the app is user-friendly |
+
+&nbsp; *Companies: Chevron, General Motors, IBM, Boeing, Facebook, Google, Hewlett Packard, Intel, Apple* 
 
 ### &nbsp; __Workshops__
 - Full Stack web development course (CS certification course)
@@ -216,9 +221,10 @@ Salary: $120,000 - 260,000
 &nbsp; *Course providers: Udemy, EDX, Intellipaat, Coursera*
 
 ### &nbsp; __Competitions__
-- Hack the North: largest competition in Canada for hackers hosted annually at Waterloo with world-class mentors
-- Google Code Jam: global coding competition with a series of online algorithmic puzzles 
-- Microsoft Imagine Cup: participants given real-world problems submitted by IGOs, NGOs and nonprofits and create solutions for it
+- [Hack the North](https://hackthenorth.com/): largest competition in Canada for hackers hosted annually at Waterloo with world-class mentors
+- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam): global coding competition with a series of online algorithmic puzzles 
+- [Microsoft Imagine Cup](https://imaginecup.microsoft.com/en-us/Events): participants given real-world problems submitted by IGOs, NGOs and nonprofits and create solutions for it
+<br> <br>
 
 
 > ## Works Cited
