@@ -33,9 +33,9 @@ Bachelor’s degree in computer science, information technology, systems enginee
 | ---------------- | -------------------- |
 | Coding languages: JavaScript, HTML, CSS, Python, C++, Java | Critical-thinking and decision-making skills |
 | Database knowledge: use organizational methods to store and structure information records in a database | Ability to find creative solutions to complex problems |
-| Source control management (SCM): helps development team track updates and changes to a program’s coding language | Excellent verbal and written communication skills and ability to collaborate with and lead colleagues |
-<br> <br>
+| Source control management (SCM): helps development team track updates and changes to a program’s coding language | Excellent verbal and written communication skills and ability to collaborate with and lead colleagues | 
 
+<br>
 
 > ## Entry Level Job
 
